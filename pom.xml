@@ -9,7 +9,7 @@
     </parent>
     <groupId>cn.yusite.hello.maven.release</groupId>
     <artifactId>module-a</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>module-a</name>
     <description>模块a</description>
 
@@ -21,7 +21,7 @@
         <url>https://github.com/msjie/module-a</url>
         <connection>scm:git:git@github.com:msjie/module-a.git</connection>
         <developerConnection>scm:git:git@github.com:msjie/module-a.git</developerConnection>
-        <tag>module-a-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
