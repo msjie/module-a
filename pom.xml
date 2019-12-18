@@ -21,7 +21,7 @@
         <url>https://github.com/msjie/module-a</url>
         <connection>scm:git:git@github.com:msjie/module-a.git</connection>
         <developerConnection>scm:git:git@github.com:msjie/module-a.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>develop</tag>
     </scm>
 
     <dependencies>
